@@ -18,3 +18,5 @@ npm start # localhost:3000/
 ```
 
 
+## Reference
+- how to install Node.js: https://github.com/wanlipu/nodejs-notes/blob/main/README.md
