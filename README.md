@@ -2,7 +2,7 @@ wanlipu.github.io
 
 ## Setup
 ```
-git clone https://github.com/wanlipu/wanlipu.github.io.git
+git clone git@github.com:wanlipu/wanlipu.github.io.git
 cd wanlipu.github.io
 nvm install # this is optional - make sure you're running >= node 14 with `node --version`
 npm install # install all the dependencies of a project.
